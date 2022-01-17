@@ -13,3 +13,7 @@
 
 ![wireframe](images/wireframe.png)
 
+----> [contact us](https://github.com/moayadabukhadra)
+
+----> [about us](https://github.com/moayadabukhadra/my-note)
+
